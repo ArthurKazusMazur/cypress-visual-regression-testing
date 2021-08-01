@@ -1,0 +1,30 @@
+{
+  "name": "cypress-visual-regression-testing",
+  "version": "1.0.0",
+  "description": "Tools and examples used for visual regression testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKazusMazur/cypress-visual-regression-testing.git"
+  },
+  "keywords": [
+    "automated",
+    "testing",
+    "regression",
+    "testing",
+    "visual",
+    "testing"
+  ],
+  "author": "Arthur Mazur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurKazusMazur/cypress-visual-regression-testing/issues"
+  },
+  "homepage": "https://github.com/ArthurKazusMazur/cypress-visual-regression-testing#readme",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
