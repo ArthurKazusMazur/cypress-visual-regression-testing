@@ -1,0 +1,1 @@
+# cypress-visual-regression-testing
